@@ -5,7 +5,7 @@ import java.util.*;
 // there are 3 Major operation 
 /*
  * 1) st.push -> push the element on the top 
- * 2) st.pop   -> take out the element from the  top 
+ * 2) st.pop   -> take out the element from the  top  and carry the value thge of the particular element 
  * 3) st.peek -> Return the element which is present of on the top of the stack
  *  
  * 

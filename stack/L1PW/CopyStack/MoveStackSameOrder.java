@@ -32,13 +32,16 @@ public class MoveStackSameOrder {
         st.push(4);
        System.out.println(st);
 
+
+
        // Putting the stack in reverse order 
 
-       Stack<Integer> reverse= new Stack<>();
-       while (st.size()>0) {
-        int x = st.peek();
-        reverse.push(x);
-        st.pop();
+       
+       Stack<Integer> reverse= new Stack<>(); // created a new stack 
+       while (st.size()>0) {   // applying the condition size of stack should be grater than zero 
+        int x = st.peek();     // returning the top element of stack 
+        reverse.push(x);       // pushing the  the top element  in you stack ( "reverse" is stack name )
+        st.pop();              // removing element from stack 
         
        }
        System.out.println(reverse);
