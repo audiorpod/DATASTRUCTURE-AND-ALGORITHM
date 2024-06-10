@@ -1,5 +1,5 @@
 package Array;
-import java.util.*;
+//import java.util.*;
 
 public class basic {
 
@@ -34,8 +34,20 @@ public class basic {
 
 
     // 0r directly 
-    int[] roll2 = {2,3,4,5,6};
-    System.out.println(0);
+   // int[] roll2 = {2,3,4,5,6};
+
+
+   int[] ros ; // declared of array
+   ros = new int[6]; // initialization: actually here object is being created in the  heap 
+    System.out.println(ros[1]);
+
+    String[] st = new String[4];
+    System.out.println(st[1]);
+
+
+
+
+   
 
 
     
