@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DATASTRUCTURE-AND-ALGORITHM.iml" filepath="$PROJECT_DIR$/DATASTRUCTURE-AND-ALGORITHM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA_JAVA/RecursionMain.iml" filepath="$PROJECT_DIR$/DSA_JAVA/RecursionMain.iml" />
+    </modules>
+  </component>
+</project>
